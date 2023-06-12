@@ -1,4 +1,4 @@
-#1) shell script to test whether the given year is a leap year or not   *
+1) shell script to test whether the given year is a leap year or not   *
 2) shell script to read 3 numbers and test whether they can be sides os a triangle *
 3) shell script using command line to print the prime number between two numbers *
 4) shell script to rename all ordinary files in a directory with file name pid of shell
