@@ -1,0 +1,11 @@
+if [ $# -gt 1 ]
+then
+  echo "Syntax error...."
+  exit 1 
+fi
+if [ $# -eq 0 ]
+then
+echo "Enter the 1st file name :"
+read a
+echo "Enter the 2nd file name :"
+read b
