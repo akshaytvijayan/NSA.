@@ -1,0 +1,8 @@
+echo "ENTER THE NUMNERS : "
+read num1 
+read num2
+sum=`expr $num1 + $num2`
+diff=`expr $num1 - $num2`
+echo "Sum = $sum"
+echo "Diff = $diff"
+exit 0
