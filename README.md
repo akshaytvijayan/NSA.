@@ -9,9 +9,9 @@
 9) shell script to delete all lines containing word linux*
 10) shell script to display the content of a directory files in window style*
 11) shell script to print specified range of the lines from given files*
-12) shell script to copy a set of files given as pair at command prompt
-13) shell script to count the occurrence of a words in a set of files
-14) shell script to modify cp command considering all error possibilities
+12) shell script to copy a set of files given as pair at command prompt*
+13) shell script to count the occurrence of a words in a set of files*
+14) shell script to modify cp command considering all error possibilities*
 15) shell script to perform a menu driven program to display
 	a)all ordinary files
 	b)all directory files
