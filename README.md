@@ -7,7 +7,7 @@
 7) shell script to display message "Good Morning,Good Afternoon,Good evening and Good Night" according to system time *
 8) shell script to display a file from last line to first line*
 9) shell script to delete all lines containing word linux*
-10) shell script to display the content of a directory files in window style
+10) shell script to display the content of a directory files in window style*
 11) shell script to print specified range of the lines from given files
 12) shell script to copy a set of files given as pair at command prompt
 13) shell script to count the occurrence of a words in a set of files
