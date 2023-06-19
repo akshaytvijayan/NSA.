@@ -19,4 +19,4 @@
 	d)all files readable to ugo
 	e)all files writable to ugo
 	f)all files executable to ugo
-16) shell script to find nCr using function
+16) shell script to find nCr using function*
