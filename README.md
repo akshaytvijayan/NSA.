@@ -5,7 +5,7 @@
 5) shell script to compare two files if the files are identical delete one*
 6) shell script to count the number of words and lines in a file*
 7) shell script to display message "Good Morning,Good Afternoon,Good evening and Good Night" according to system time *
-8) shell script to display a file from last line to first line
+8) shell script to display a file from last line to first line*
 9) shell script to delete all lines containing word linux
 10) shell script to display the content of a directory files in window style
 11) shell script to print specified range of the lines from given files
