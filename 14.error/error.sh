@@ -1,32 +1,22 @@
+#shell script to modify cp command considering all error possibilities
 if [ $# -ne 2 ]
-then 
-echo "Syntax error <$0> <sorce file> <destination file>"
+then
+echo " \n syntax is <$0> <srcfilename> <tgtfilename>"
 exit 1
 fi
 if [ ! -f $1 ]
 then
-echo " $1 not exists or it is not an ordinary file"
+echo "$1 is not existing or not an ordinary file "
 exit 2
 fi
-if [ ! -r $1 ]
-then
-echo " $1 is not readable"
-exit 5
-fi
 if [ -f $2 ]
-then 
-echo "Target file exists.Do you want to Overwrite(y/n)"
+then
+echo "target file exists,over write it(y/n)"
 read ans
 if [ $ans = "n" ]
-then 
-exit 3
-fi
-if [ ! -w $2 ]
 then
-echo "$2 not writable"
-exit 4
+exit 3
 fi
 fi
 cp $1 $2
-echo "File successfully copied"
-exit 0	
+echo " file copied "
