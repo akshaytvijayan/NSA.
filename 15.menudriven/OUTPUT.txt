@@ -1,0 +1,75 @@
+1. All Ordinary Files 
+2. All Directory Files 
+3. All Special Files 
+4. All Files Readable to ugo 
+5. All Files Writeable to ugo 
+6. All Files Executable to ugo 
+7. All RWX Files 
+8. Exit 
+
+ option :
+1
+OUTPUT.txt
+demo.txt
+dml.txt
+sir.sh: 20: [: file: unexpected operator
+sir.sh
+Enter to continue.......
+
+option :
+2
+DBMS
+NSA
+sir.sh: 28: [: file: unexpected operator
+javaLab
+linux
+Enter to continue.......
+
+ option :
+3
+OUTPUT.txt
+demo.txt
+dml.txt
+sir.sh: 36: [: file: unexpected operator
+sir.sh
+Enter to continue.......
+
+ option :
+4
+OUTPUT.txt
+demo.txt
+dml.txt
+sir.sh: 44: [: file: unexpected operator
+sir.sh
+Enter to continue.......
+
+option :
+5
+OUTPUT.txt
+demo.txt
+dml.txt
+sir.sh: 58: [: file: unexpected operator
+sir.sh
+Enter to continue.......
+
+ option :
+6
+OUTPUT.txt
+demo.txt
+dml.txt
+sir.sh: 72: [: file: unexpected operator
+sir.sh
+Enter to continue.......
+
+ option :
+7
+OUTPUT.txt
+demo.txt
+dml.txt
+sir.sh: 86: [: file: unexpected operator
+sir.sh
+Enter to continue.......
+
+option :
+8
+ksb@ksb-OptiPlex-3060:~/akshaytvijayan$ 
